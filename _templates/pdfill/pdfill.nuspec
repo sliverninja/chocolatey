@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>pdfill</id>
+    <title>PDFill</title>
+    <version>11.0</version>
+    <authors>PlotSoft</authors>
+    <owners>customuser</owners>
+    <summary>Looking for an inexpensive alternative to Adobe Acrobat? Please try PDFill! You can use the Free PDF Writer to create free PDF or Image from any printable application. You can use the Free PDF Tools to merge, split, reorder, delete, encrypt, decrypt, rotate, crop and reformat PDF pages, add information/header/footer/watermark, convert image to PDF or PDF to image,  scan a Paper to PDF, and more.  Besides, with a fraction of the cost of Adobe Acrobat,  PDFill PDF Editor can do more than the Free Adobe Reader. </summary>
+    <description>Looking for an inexpensive alternative to Adobe Acrobat? Please try PDFill! You can use the Free PDF Writer to create free PDF or Image from any printable application. You can use the Free PDF Tools to merge, split, reorder, delete, encrypt, decrypt, rotate, crop and reformat PDF pages, add information/header/footer/watermark, convert image to PDF or PDF to image,  scan a Paper to PDF, and more.  Besides, with a fraction of the cost of Adobe Acrobat,  PDFill PDF Editor can do more than the Free Adobe Reader. </description>
+    <projectUrl>http://www.pdfill.com/</projectUrl>
+    <tags>pdfill pdf editing adobe print split</tags>
+    <copyright>PlotSoft LLC</copyright>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/sliverninja/chocolatey/master/_templates/pdfill/PDFill.png</iconUrl>
+  </metadata>
+</package>
