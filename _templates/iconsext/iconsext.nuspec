@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>iconsext</id>
+    <title>Icons Extract</title>
+    <version>1.47</version>
+    <authors>Nirsoft</authors>
+    <owners>customuser</owners>
+    <summary>The IconsExtract utility scans the files and folders on your computer, and extract the icons and cursors stored in EXE, DLL, OCX, CPL, and in other file types. You can save the extracted icons to ICO files (or CUR files for cursors), or copy the image of a single icon into the clipboard.</summary>
+    <description>The IconsExtract utility scans the files and folders on your computer, and extract the icons and cursors stored in EXE, DLL, OCX, CPL, and in other file types. You can save the extracted icons to ICO files (or CUR files for cursors), or copy the image of a single icon into the clipboard.</description>
+    <projectUrl>http://www.nirsoft.net/utils/iconsext.html</projectUrl>
+    <tags>iconsext icon extraction extract ico</tags>
+    <copyright>Nirsoft</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/sliverninja/chocolatey/master/_templates/iconsext/iconsext_icon.png</iconUrl>
+  </metadata>
+</package>
