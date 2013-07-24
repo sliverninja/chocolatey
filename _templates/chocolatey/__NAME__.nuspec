@@ -5,7 +5,7 @@
     <title>__NAME__</title>
     <version>__REPLACE__</version>
     <authors>__REPLACE__</authors>
-    <owners>__CHOCO_PKG_OWNER_NAME__</owners>
+    <owners>customuser</owners>
     <summary>__NAME__</summary>
     <description>__NAME__</description>
     <projectUrl>__REPLACE__</projectUrl>

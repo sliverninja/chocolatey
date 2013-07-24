@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ColorPic</id>
+    <title>ColorPic</title>
+    <version>4.1</version>
+    <authors>Iconico</authors>
+    <owners>customuser</owners>
+    <summary>Ever tried using a color picker on a high resolution monitor? It's impossible. That's why this color picker has a magnifier attached. Grab palettes of up to 16 colors at once and use four advanced color mixers to select a spectrum of possibilities.</summary>
+    <description>Ever tried using a color picker on a high resolution monitor? It's impossible. That's why this color picker has a magnifier attached. Grab palettes of up to 16 colors at once and use four advanced color mixers to select a spectrum of possibilities.</description>
+    <projectUrl>http://www.iconico.com/colorpic/</projectUrl>
+    <tags>ColorPic color picker Colour Picker</tags>
+    <copyright>2004-2013 Iconico, Inc. Code &amp; Design</copyright>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://www.iconico.com/i/icoColorPic.gif</iconUrl>
+    <releaseNotes></releaseNotes>
+  </metadata>  
+</package>

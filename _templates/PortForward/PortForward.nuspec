@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>PortForward</id>
+    <title>SPI Port Forward</title>
+    <version>1.0</version>
+    <authors>Spider IT</authors>
+    <owners>customuser</owners>
+    <summary>Small, simple program to forward the connections to other hosts/ports. Useful if you have a Web server/FTP server or similar behind a router, which you have no idea on how to configure it manually. One file, just run and enjoy
+
+Port Forward enables you to access ASP.NET Development Server included in Visual Studio from another computer.</summary>
+    <description>Small, simple program to forward the connections to other hosts/ports. Useful if you have a Web server/FTP server or similar behind a router, which you have no idea on how to configure it manually. One file, just run and enjoy
+
+Port Forward enables you to access ASP.NET Development Server included in Visual Studio from another computer.</description>
+    <projectUrl>http://download.cnet.com/SPI-Port-Forward/3000-2651_4-10764348.html</projectUrl>
+    <tags>PortForward spi port forward asp.net development server</tags>
+    <copyright>Spider IT</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>    
+  </metadata>
+</package>

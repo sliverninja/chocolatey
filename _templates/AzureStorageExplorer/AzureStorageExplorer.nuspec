@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>AzureStorageExplorer</id>
+    <title>Azure Storage Explorer</title>
+    <version>5.0.0.0</version>
+    <authors>Neudesic</authors>
+    <owners>CustomUser</owners>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>       
+	<projectUrl>http://azurestorageexplorer.codeplex.com/</projectUrl>    
+    <description>Azure Storage Explorer is a useful GUI tool for inspecting and altering the data in your Windows Azure Storage storage projects including the logs of your cloud-hosted applications. 
+
+All 3 types of cloud storage can be viewed and edited: blobs, queues, and tables. </description>
+    <summary>Azure Storage Explorer is a useful GUI tool for inspecting and altering the data in your Windows Azure Storage storage projects including the logs of your cloud-hosted applications. 
+
+All 3 types of cloud storage can be viewed and edited: blobs, queues, and tables. </summary>
+    <tags>azure azurestorageexplorer azurestorage</tags>
+  </metadata>  
+</package>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MFCMapi</id>
+    <title>MFC Mapi Editor</title>
+    <version>15.0.0.1039</version>
+    <authors> sgriffin</authors>
+    <owners>customuser</owners>
+    <summary>MFCMAPI uses Microsoft's published APIs to provide access to MAPI stores through a graphical user interface. Its purpose is to facilitate investigation of Exchange and Outlook issues and to provide developers with a canonical sample for MAPI development</summary>
+    <description>MFCMAPI uses Microsoft's published APIs to provide access to MAPI stores through a graphical user interface. Its purpose is to facilitate investigation of Exchange and Outlook issues and to provide developers with a canonical sample for MAPI development</description>
+    <projectUrl>http://mfcmapi.codeplex.com/</projectUrl>
+    <tags>MFCMapi mfc mapi editor mrmapi outlook microsoft</tags>   
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://download-codeplex.sec.s-msft.com/Download?ProjectName=mfcmapi&amp;DownloadId=49644&amp;Build=20626</iconUrl>
+  </metadata> 
+</package>

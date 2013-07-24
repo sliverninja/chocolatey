@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>newt</id>
+    <title>NEWT: Network Emulator Toolkit for Windows</title>
+    <version>1.0.0.0</version>
+    <authors>Microsoft</authors>
+    <owners>customuser</owners>
+    <summary>NEWT is a software-based emulator that can emulate the behavior of both wired and wireless networks using a reliable physical link, such as an Ethernet. A variety of network attributes are incorporated into the NEWT emulation model, including round-trip time across the network (latency), the amount of available bandwidth, queuing behavior, a given degree of packet loss, reordering of packets, and error propagations. NEWT also provides flexibility in filtering network packets based on IP addresses or protocols such as TCP, UDP, and ICMP.</summary>
+    <description>NEWT is a software-based emulator that can emulate the behavior of both wired and wireless networks using a reliable physical link, such as an Ethernet. A variety of network attributes are incorporated into the NEWT emulation model, including round-trip time across the network (latency), the amount of available bandwidth, queuing behavior, a given degree of packet loss, reordering of packets, and error propagations. NEWT also provides flexibility in filtering network packets based on IP addresses or protocols such as TCP, UDP, and ICMP.</description>
+    <projectUrl>http://blog.mrpol.nl/2010/01/14/network-emulator-toolkit/</projectUrl>
+    <tags>newt network emulator toolkit windows tcp</tags>
+    <copyright></copyright>
+    <licenseUrl>__REPLACE__</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://raw.github.com/__CHOCO_PKG_OWNER_REPO__/master/newt/newt.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>

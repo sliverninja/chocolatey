@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Explorerplusplus</id>
+    <title>Explorer++</title>
+    <version>1.3.5</version>
+    <authors>David Erceg</authors>
+    <owners>customuser</owners>
+    <summary>Explorer++ is a lightweight and fast file manager for Windows</summary>
+    <description>Explorer++ is a lightweight and fast file manager for Windows</description>
+    <projectUrl>http://explorerplusplus.com/</projectUrl>
+    <tags>Explorerplusplus explorer explore explorer++</tags>
+    <copyright>David Erceg</copyright>   
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://explorerplusplus.com/images/logo.png</iconUrl>    
+    <releaseNotes></releaseNotes>
+  </metadata>  
+</package>

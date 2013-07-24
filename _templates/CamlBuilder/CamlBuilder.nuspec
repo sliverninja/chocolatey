@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>CamlBuilder</id>
+    <title>CamlBuilder</title>
+    <version>4.0.0.0</version>
+    <authors>U2U</authors>
+    <owners>customuser</owners>
+    <summary>The following are the advantages of using this tool:
+
+As CAML is non-typed and error prone during development, the CAML Query Builder provides advantage of writing and validating CAML queries.
+An Intuitive User Interface is provided by the application for more easier query building.
+Above all the tool is free.</summary>
+    <description>The following are the advantages of using this tool:
+
+As CAML is non-typed and error prone during development, the CAML Query Builder provides advantage of writing and validating CAML queries.
+An Intuitive User Interface is provided by the application for more easier query building.
+Above all the tool is free.</description>
+    <projectUrl>http://www.u2u.be/Software</projectUrl>
+    <tags>CamlBuilder sharepoint 2007 caml builder</tags>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>  
+</package>

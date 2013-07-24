@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Pencil</id>
+    <title>Pencil</title>
+    <version>2.0.3</version>
+    <authors>Evolus</authors>
+    <owners>customuser</owners>
+    <summary>Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms.</summary>
+    <description>Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms.</description>
+    <projectUrl>http://pencil.evolus.vn/</projectUrl>
+    <tags>pencil drawing stencil templates mockups prototypes</tags>
+    <copyright>2008-2012 Evolus</copyright>   
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://pencil.evolus.vn/styling/images/logo-shadow.png</iconUrl>    
+    <releaseNotes></releaseNotes>
+  </metadata>  
+</package>

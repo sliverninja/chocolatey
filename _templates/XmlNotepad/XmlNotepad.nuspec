@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>XmlNotepad</id>
+    <title>Xml Notepad</title>
+    <version>2007.0.0.0</version>
+    <authors>Microsoft</authors>
+    <owners>customuser</owners>
+    <summary>XmlNotepad</summary>
+    <description>XmlNotepad</description>
+    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=7973</projectUrl>
+    <tags>XmlNotepad xml editor</tags>
+    <copyright>Microsoft</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://i.microsoft.com/global/ImageStore/PublishingImages/logos/56x56/microsoft_logo_56x56.png</iconUrl>
+  </metadata>  
+</package>

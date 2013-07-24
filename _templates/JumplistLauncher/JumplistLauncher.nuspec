@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>JumplistLauncher</id>
+    <title>Jumplist Launcher</title>
+    <version>7.21</version>
+    <authors>Hedgehog</authors>
+    <owners>customuser</owners>
+    <summary>The newly introduced jumplists, which appear when you right-click on an icon in the superbar, help improving the workflow a lot, but if you want combine multiple programs in one icon, you’re screwed.It lets you add up to 60 programs or files within self-defined groups inside a jumplist, but see yourself.</summary>
+    <description>The newly introduced jumplists, which appear when you right-click on an icon in the superbar, help improving the workflow a lot, but if you want combine multiple programs in one icon, you’re screwed.It lets you add up to 60 programs or files within self-defined groups inside a jumplist, but see yourself.</description>
+    <projectUrl>http://en.www.ali.dj/jumplist-launcher</projectUrl>
+    <tags>JumplistLauncher jumplist windows7</tags>
+    <copyright>www.ali.dj</copyright>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://www.ali.dj/wp-content/uploads/2009/07/jumplist-launcher-icon.png</iconUrl>    
+  </metadata>  
+</package>

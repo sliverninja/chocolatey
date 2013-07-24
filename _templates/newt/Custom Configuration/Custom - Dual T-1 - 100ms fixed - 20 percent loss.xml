@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Emulation xmlns="http://research.microsoft.com/asia">
+  <VirtualChannel name="Virtual 1">
+    <FilterList />
+    <VirtualLink instances="1" name="link3">
+      <LinkRule dir="upstream">
+        <Bandwidth>
+          <Speed unit="kbps">3162</Speed>
+          <QueueManagement>
+            <NormalQueue>
+              <Size>100</Size>
+              <QueueMode>packet</QueueMode>
+              <DropType>DropTail</DropType>
+            </NormalQueue>
+          </QueueManagement>
+        </Bandwidth>
+        <Latency>
+          <Fixed>
+            <Time unit="msec">50</Time>
+          </Fixed>
+        </Latency>
+        <Loss>
+          <Random>
+            <Rate>0.10</Rate>
+          </Random>
+        </Loss>
+      </LinkRule>
+      <LinkRule dir="downstream">
+        <Bandwidth>
+          <Speed unit="kbps">3162</Speed>
+          <QueueManagement>
+            <NormalQueue>
+              <Size>100</Size>
+              <QueueMode>packet</QueueMode>
+              <DropType>DropTail</DropType>
+            </NormalQueue>
+          </QueueManagement>
+        </Bandwidth>
+        <Latency>
+          <Fixed>
+            <Time unit="msec">50</Time>
+          </Fixed>
+        </Latency>
+        <Loss>
+          <Random>
+            <Rate>0.10</Rate>
+          </Random>
+        </Loss>
+      </LinkRule>
+    </VirtualLink>
+  </VirtualChannel>
+</Emulation>
