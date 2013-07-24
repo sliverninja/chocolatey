@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ldapexplorer</id>
+    <title>LDAP Explorer</title>
+    <version>1.0.0.0</version>
+    <authors>John Penfold</authors>
+    <owners>customuser</owners>
+    <summary>The LDAP Explorer is a small utility written in .Net (using c#) that allows you to navigate a LDAP Directory.
+ 
+It has been tested on Active Directory (win2000 and win2003), Novell E-Directory and OpenLDAP 2.X directory server.  It should also work on other Directory Servers.
+ 
+This utility is very useful when writing application/website that use Active Directory or LDAP as you can navigate the directory and inspect properties of any object in the tree.</summary>
+    <description>The LDAP Explorer is a small utility written in .Net (using c#) that allows you to navigate a LDAP Directory.
+ 
+It has been tested on Active Directory (win2000 and win2003), Novell E-Directory and OpenLDAP 2.X directory server.  It should also work on other Directory Servers.
+ 
+This utility is very useful when writing application/website that use Active Directory or LDAP as you can navigate the directory and inspect properties of any object in the tree.</description>
+    <projectUrl>http://www.asp-dev.com/main.asp?page=88</projectUrl>
+    <tags>ldapexplorer ldap directory active windows</tags>
+    <copyright>ASP-DEV</copyright>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://raw.github.com/__CHOCO_PKG_OWNER_REPO__/master/ldapexplorer/ldapexplorer.png</iconUrl>-->    
+  </metadata>
+</package>
