@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>wordcontentcontroltoolkit</id>
+    <title>Word Content Control Toolkit</title>
+    <version>1.3</version>
+    <authors>Matthew Scott</authors>
+    <owners>customuser</owners>
+    <summary>This toolkit makes binding content controls to XML data in your Word document as easy as a drag and drop. 
+
+This is a stand-alone, light-weight tool that opens any Word Open XML document (eg .docx) and lists all of the content controls inside of it.
+The XML parts are also displayed, and a mapping between the content controls and the XML nodes can be accomplished by simply selecting the node and dropping it on the content control you wish to map to.
+The editor allows you to also edit/add/remove Custom XML parts and manipulate content control properties.
+The tool does not require Word to be installed because it operates directly on the new Open XML file formats by reading and writing to them using the System.IO.Packaging library available in .NET.
+The code to do this is included in the releases and can be used as a handy resource on how to perform complex manipulations of the format.</summary>
+    <description>This toolkit makes binding content controls to XML data in your Word document as easy as a drag and drop. 
+
+This is a stand-alone, light-weight tool that opens any Word Open XML document (eg .docx) and lists all of the content controls inside of it.
+The XML parts are also displayed, and a mapping between the content controls and the XML nodes can be accomplished by simply selecting the node and dropping it on the content control you wish to map to.
+The editor allows you to also edit/add/remove Custom XML parts and manipulate content control properties.
+The tool does not require Word to be installed because it operates directly on the new Open XML file formats by reading and writing to them using the System.IO.Packaging library available in .NET.
+The code to do this is included in the releases and can be used as a handy resource on how to perform complex manipulations of the format.</description>
+    <projectUrl>http://dbe.codeplex.com/</projectUrl>
+    <tags>wordcontentcontroltoolkit office 2007 content controls word toolkit docx docm dbe</tags>
+    <copyright>Microsoft</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/sliverninja/chocolatey/master/_templates/wordcontentcontroltoolkit/dbe.png</iconUrl>
+  </metadata>
+</package>

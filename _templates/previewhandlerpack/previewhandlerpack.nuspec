@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>previewhandlerpack</id>
+    <title>Windows Preview Handler Pack</title>
+    <version>1.0.0.0</version>
+    <authors>Tatham Oddie, Scott Hanselman</authors>
+    <owners>customuser</owners>
+    <summary>Adds a series of preview handlers to Windows Vista, Windows 7, Outlook 2007 and Outlook 2010 that are useful for software developers.
+
+The pack currently supports:
+ActionScript (.as)
+ASPX (.aspx)
+C# (.cs)
+CSS (.css)
+Diff (.diff, .patch)
+DOS (.bat, .cmd)
+JavaScript (.js)
+Ruby (.rb, .rhtml, .rjs) thanks to Ivan Porto Carrero
+SQL (.sql)
+VB (.vb)
+View Screenshots: http://blog.tatham.oddie.com.au/2006/12/20/vista-and-office-2007-preview-handler-pack-released/ </summary>
+    <description>Adds a series of preview handlers to Windows Vista, Windows 7, Outlook 2007 and Outlook 2010 that are useful for software developers.
+
+The pack currently supports:
+ActionScript (.as)
+ASPX (.aspx)
+C# (.cs)
+CSS (.css)
+Diff (.diff, .patch)
+DOS (.bat, .cmd)
+JavaScript (.js)
+Ruby (.rb, .rhtml, .rjs) thanks to Ivan Porto Carrero
+SQL (.sql)
+VB (.vb)
+View Screenshots: http://blog.tatham.oddie.com.au/2006/12/20/vista-and-office-2007-preview-handler-pack-released/ </description>
+    <projectUrl>http://previewhandlers.codeplex.com/</projectUrl>
+    <tags>previewhandlerpack preview handler explorer outlook office code highlight developer</tags>
+    <copyright>Microsoft</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://raw.github.com/__CHOCO_PKG_OWNER_REPO__/master/previewhandlerpack/previewhandlerpack.png</iconUrl>-->
+  </metadata>
+</package>
