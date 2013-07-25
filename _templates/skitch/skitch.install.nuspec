@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>skitch.install</id>
+    <title>Skitch</title>
+    <version>1.0.0.0</version>
+    <authors>Evernote</authors>
+    <owners>customuser</owners>
+    <summary>Get your point across with fewer words using annotation, shapes and sketches, so that your ideas become reality faster.Use Skitch on your desktop and phone to give feedback and share ideas</summary>
+    <description>Get your point across with fewer words using annotation, shapes and sketches, so that your ideas become reality faster.Use Skitch on your desktop and phone to give feedback and share ideas</description>
+    <projectUrl>http://www.evernote.com</projectUrl>
+    <tags>skitch annotate markup</tags>
+    <copyright>Evernote</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/sliverninja/chocolatey/master/_templates/skitch/Skitch.png</iconUrl>
+  </metadata>
+</package>

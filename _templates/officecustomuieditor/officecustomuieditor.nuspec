@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>officecustomuieditor</id>
+    <title>Custom UI Editor for Microsoft Office</title>
+    <version>1.1</version>
+    <authors>OpenXMLDeveloper</authors>
+    <owners>customuser</owners>
+    <summary>There are times that you use the same basic structure of XML in different documents. For example, the XML for the &lt;customUI&gt; element and the &lt;ribbon&gt; element are the same for all Microsoft Office applications that support the Ribbon. It can be tiresome to have to type in the same information for each use. To eliminate this need, you can use the Custom UI Editor to store and access custom templates.</summary>
+    <description>&gt;There are times that you use the same basic structure of XML in different documents. For example, the XML for the &lt;customUI&gt; element and the &lt;ribbon&gt; element are the same for all Microsoft Office applications that support the Ribbon. It can be tiresome to have to type in the same information for each use. To eliminate this need, you can use the Custom UI Editor to store and access custom templates.</description>
+    <projectUrl>http://openxmldeveloper.org/blog/b/openxmldeveloper/archive/2009/08/07/7293.aspx</projectUrl>
+    <tags>officecustomuieditor office customui ribbon xml</tags>
+    <copyright>OpenXMLDeveloper</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/sliverninja/chocolatey/master/_templates/officecustomuieditor/CustomUIEditor.png</iconUrl>
+  </metadata>
+</package>
