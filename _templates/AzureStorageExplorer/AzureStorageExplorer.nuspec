@@ -3,7 +3,7 @@
   <metadata>
     <id>AzureStorageExplorer</id>
     <title>Azure Storage Explorer</title>
-    <version>5.0.0.0</version>
+    <version>4.0.0.0</version>
     <authors>Neudesic</authors>
     <owners>CustomUser</owners>    
     <requireLicenseAcceptance>false</requireLicenseAcceptance>       
