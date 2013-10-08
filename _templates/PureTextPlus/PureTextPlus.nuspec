@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>PureTextPlus</id>
+    <title>PureText+</title>
+    <version>3.0.6.1</version>
+    <authors>mellowaredev</authors>
+    <owners>customuser</owners>
+    <summary>PureText+ adds a new Windows hot-key (default is WINDOWS+V) that allows you to paste text to any application without formatting.</summary>
+    <description>PureText+ adds a new Windows hot-key (default is WINDOWS+V) that allows you to paste text to any application without formatting.</description>
+    <projectUrl>https://code.google.com/p/puretext-plus/</projectUrl>
+    <tags>puretext copy paste windows formatting puretextplus</tags>
+    <copyright>Apache License 2.0</copyright>   
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/sliverninja/chocolatey/master/_templates/puretextplus/puretextplus_icon.png</iconUrl>
+    <releaseNotes></releaseNotes>
+  </metadata>  
+</package>
